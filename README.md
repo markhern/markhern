@@ -1,16 +1,19 @@
 ## Hi I'm Mark 👋
-I'm a Developer & Cybersecurity Professional with a growing interest in Cloud Security & Cloud Engineering.
+I'm a Developer & Cybersecurity Professional with an interest in Cloud Security & Cloud Engineering.
 
-<h2> 📜 Certifications</h2>
+<h2> 📜 Certifications:</h2>
 
   - [AWS Certified Solutions Architect - Associate.](https://www.credly.com/badges/da4b3ec2-2a2f-4e33-a854-7edb1657d8b8)
   - [CompTIA CySA+ (Cybersecurity Analyst)](https://www.credly.com/badges/f08e2dde-100d-44f5-abba-29896ef77b29)
   - [CompTIA Security+](https://www.credly.com/badges/b7e76ab0-1e3f-4dd1-88ef-c929263a82c0)
+  - <b>Currently Studying for These Certifications:</b>
+    - [AWS Security Specialty  Certification (SCS-C03), IN PROGRESS](https://docs.aws.amazon.com/pdfs/aws-certification/latest/security-specialty-03/security-specialty-03.pdf)
+    - [HashiCorp Terraform Associate Certification, IN PROGRESS](https://developer.hashicorp.com/terraform/tutorials/certification-004/associate-study-004)
 
 <h2> 🏗️ Portfolio Projects:</h2>
 
-  - [001](https://github.com/markhern/sample_proj1)
-  - [002](https://github.com/markhern/sample_proj2)
+  - [Placeholder 001](https://github.com/markhern/Placeholder1)
+  - [Placeholder 002](https://github.com/markhern/Placeholder2)
 
 <h2> 🤳 Connect with me:</h2>
 
